@@ -7,6 +7,7 @@ A starter template for building a REST API with **Django 5.2** connected to **Az
 For detailed installation, prerequisites, and database configuration, please refer to:
 - [General Setup Guide](docs/SETUP.md)
 - [Azure Database Setup (SQL & Cosmos DB)](docs/DB_SETUP_AZURE.md)
+- [Deployment Guide (App Service & Containers)](docs/DEPLOYMENT.md)
 
 ## API Endpoints
 
